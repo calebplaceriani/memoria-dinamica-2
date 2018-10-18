@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1539825300 source:/home/alumno/claseDeProgramacionYLaboratorio1/Clase15/clase 17/main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"service.h"
+	"user.h"
+
+1539825337 /home/alumno/claseDeProgramacionYLaboratorio1/Clase15/clase 17/empleado.h
+
+1539825491 source:/home/alumno/claseDeProgramacionYLaboratorio1/Clase15/clase 17/empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"service.h"
+	"user.h"
+
+1539823080 /home/alumno/claseDeProgramacionYLaboratorio1/Clase15/clase 17/service.h
+
+1539825095 /home/alumno/claseDeProgramacionYLaboratorio1/Clase15/clase 17/user.h
+
+1539825095 source:/home/alumno/claseDeProgramacionYLaboratorio1/Clase15/clase 17/service.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	"service.h"
+	"user.h"
+
